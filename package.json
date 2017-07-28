@@ -1,0 +1,22 @@
+{
+  "name": "angular-storage-export-helpers",
+  "version": "1.0.0",
+  "description": "set of helpers for angular1 to export and storage related features",
+  "main": "modules.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dennissterzenbach/angular-storage-export-helpers.git"
+  },
+  "author": "Dennis Sterzenbach <dennis.sterzenbach@gmail.com>",
+  "license": "SEE LICENSE IN ./LICENSE",
+  "bugs": {
+    "url": "https://github.com/dennissterzenbach/angular-storage-export-helpers/issues"
+  },
+  "homepage": "https://github.com/dennissterzenbach/angular-storage-export-helpers#readme",
+  "devDependencies": {
+    "angular-storage": "0.0.15"
+  }
+}
